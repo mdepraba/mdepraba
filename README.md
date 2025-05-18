@@ -1,6 +1,6 @@
-<div align="center">
-    <img width="720" alt="GIF" src="https://fetchpik.com/images/fetchpik.com-yRos9YfVbu.gif" />
-</div>
+<p align="center">
+  <img src="https://github.com/mdepraba/mdepraba/raw/main/kazuma-nguli.gif" alt="Kazuma nguli" />
+</p>
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?lines=>_+Machine+Learning+Developer;>_+Bali+Based+Developer&font=Fira%20Code&weight=500&center=true&width=500&height=70&color=f75c7e&vCenter=true&size=22">
@@ -11,8 +11,6 @@
   <img src="https://img.shields.io/badge/Learning-Frontend_Development-green" />
   <img src="https://img.shields.io/badge/Location-Bali,_Indonesia-orange" />
 </p>
-
-
 
 ## 🚀 About Me
 <img align="right" height="150" width="267" alt="GIF" src="https://media.giphy.com/media/xUA7bdpLxQhsSQdyog/giphy.gif" />
